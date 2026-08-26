@@ -4,12 +4,15 @@
 
 # 🔮Bienvenido al joyero 
 
-Hola, me llamo Noodle y este es uno de mis pequeños lugares en el internet, siempre e sido alguien al que le gusta crear por lo tanto este sera uno de mis lugarsitos donde hablo conmigo mismo, y tal vez; el lugar mas personal 👀
+Hola, me llamo Noodle y este es uno de mis pequeños lugares en el internet, siempre e sido alguien al que le gusta crear por lo tanto este será uno de mis lugarcitos donde hablo conmigo mismo, y tal vez; el lugar mas personal 👀
 
 ## Explora alrededor de la pagina
 
 🐐 [[El amo de llaves\|El amo de llaves]]
 Acerca de su servidor
+
+🧵 [[Cosiendo el futuro\|Cosiendo el futuro]]
+Que estoy haciendo AHORA.
 
 📜 [[Pergamino\|Pergamino]] 
 Escritos, divagaciones y desvaríos mentales
