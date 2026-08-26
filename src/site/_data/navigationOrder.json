@@ -1,6 +1,21 @@
 {
   "/": [
     "The Reliquary",
-    "esto es un enlace"
+    "Casa",
+    "Desierto",
+    "buzón"
+  ],
+  "/Casa": [
+    "Cosiendo el futuro",
+    "El amo de llaves",
+    "Taller"
+  ],
+  "/Desierto": [
+    "Observatorio",
+    "Pergamino"
+  ],
+  "/buzón": [
+    "Archivo",
+    "Cartas"
   ]
 }
