@@ -27,3 +27,13 @@ Mi misión es hacer un circulo mas accesible para gente como yo, que la gente pu
 | El gato Nu                  | Cuento Infantil                       | Exploración | Historia autobiografica adaptada a una mirada infantil                 |
 | La Sinfonia del Silencio    | Au Selfship                           | Outline     | Selfiship secundario de Be More Chill con los mismos chicos de arriba! |
 
+## ¡Favoritos!
+
+| Cosa          | gusto |
+| ------------- | ----- |
+| **Comida**    |       |
+| **Musica**    |       |
+| **Juegos**    |       |
+| **Peliculas** |       |
+| **Shows**     |       |
+| **Colores**   |       |
