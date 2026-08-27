@@ -12,7 +12,7 @@ Actualmente estoy viviendo en mi casita, no tengo trabajo y estoy estudiando act
  Planeando los ficlets de **Three Dorks** para Twitter *tiembla
  Moderando el grupo **Error 404: Neurotypical not found**
 
-## **Aprendiendo:*
+## Aprendiendo:
  Edad media, IA y historia del arte
 
 ## Escuchando
