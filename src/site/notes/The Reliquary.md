@@ -11,7 +11,7 @@ Hola, me llamo Noodle y este es uno de mis pequeños lugares en el internet, sie
 🐐 [[Casa/El amo de llaves\|El amo de llaves]]
 Acerca de su servidor
 
-🧵 [[Casa/Cosiendo el futuro\|Cosiendo el futuro]]
+🧵 [[Casa/Cosiendo el futuro/Cosiendo el futuro\|Cosiendo el futuro]]
 Que estoy haciendo AHORA.
 
 📜 [[Desierto/Pergamino\|Pergamino]] 
@@ -19,6 +19,9 @@ Escritos, divagaciones y desvaríos mentales
 
 🎨 [[Casa/Taller\|Taller]]
 Arte que solo a mi se me ocurre
+
+💌 [[buzón/Cartas\|Cartas]]
+Dedicatorias a los que amo. 
 
 📰 [[buzón/Archivo\|Archivo]]
 Cosas que guardo
