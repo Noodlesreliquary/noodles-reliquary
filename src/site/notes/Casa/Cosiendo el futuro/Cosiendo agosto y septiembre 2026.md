@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/casa/cosiendo-el-futuro/cosiendo-agosto-y-septiembre-2026/","dg-note-properties":{}}
 ---
 
-# ¿Que estoy haciendo?
-Actualmente estoy viviendo en mi casita, no tengo trabajo y estoy estudiando actualmente, solo ando enfocado en vivir el día a día, aquí algunas cosas que estoy haciendo.
+# ¿Qué estoy haciendo?
+Actualmente estoy viviendo en mi casita, no tengo trabajo y no estoy estudiando. Solo ando enfocado en vivir el día a día. Aquí algunas cosas que estoy haciendo.
 
 ## **Proyectos** 
 
@@ -13,19 +13,19 @@ Actualmente estoy viviendo en mi casita, no tengo trabajo y estoy estudiando act
  Moderando el grupo **Error 404: Neurotypical not found**
 
 ## Aprendiendo:
- Edad media, IA y historia del arte
+ Edad Media, IA e historia del arte
 
 ## Escuchando
-> Change - **deftones**
+> Change - **Deftones**
 
 ## Investigando sobre
 Tsumification 
 Mysterious Flesh Pit 
 Southern gothic
 ## Intentando
-Cuidarme un poco mas (lol. no sirvo para esto *weeps* )
-buscar maneras de emprender
-conseguir amigos duraderos
+Cuidarme un poco más (lol. no sirvo para esto *weeps* )
+Buscar maneras de emprender
+Conseguir amigos duraderos
 
 
 
